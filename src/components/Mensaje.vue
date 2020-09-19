@@ -1,5 +1,5 @@
 <template>
-  <h1>"Excelente blog"</h1>
+  <h1>Hola</h1>
 </template>
 
 <script>
